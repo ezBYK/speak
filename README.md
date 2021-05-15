@@ -73,4 +73,4 @@ How to install :
 
 * Contact me on discord : hide#2000 && ezbylovesh#0443
 
-*                                           
+*              <h1 style: #FF0000;>Our discord: https://discord.gg/6y9WBktEbw <h1>                             
