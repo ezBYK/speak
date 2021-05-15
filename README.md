@@ -72,3 +72,5 @@ How to install :
 ## Need a Speak server ?
 
 * Contact me on discord : hide#2000 && ezbylovesh#0443
+
+*                                           
