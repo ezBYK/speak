@@ -20,6 +20,8 @@ Info:
 * Speak was coded by Steraky, so yes I'm the only developer on this project and the brain Ezbyk.
 * It is the only messaging tool on terminal and without logs!
 
+* the project director: ezBYK 
+* the developer: Steraky 
 ### Coded With
 * [Python](https://www.python.org/)
 
@@ -71,6 +73,6 @@ How to install :
 
 ## Need a Speak server ?
 
-* Contact me on discord : hide#2000 && ezbylovesh#0443
+* Contact me on discord : hide#2000 && ezb3lovesh#0443
 
-*              <h1> Our discord: https://discord.gg/6y9WBktEbw </h1>                 
+*          Our discord: https://discord.gg/6y9WBktEbw               
